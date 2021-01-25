@@ -1,0 +1,18 @@
+// 0x8E7827D Mute
+// 0x8E7629D Power
+
+// The remote has two buttons each for volume, they both work the same afaik 
+// 0x8E7E21D //vol down left
+// 0x8E7926D //vol down right
+// 0x8E7A05F // vol up left
+// 0x8E7609F // vol up right
+
+// 0x8E7E01F Switch to PC input
+// 0x8E7906F Switch to AUX input
+// 0x8E7A25D Switch to Optical input
+// 0x8E7C03F Switch to COX input
+// 0x8E73AC5 Switch to Bluetooth input
+
+// 0x8E77A85 // Play/Pause
+// 0x8E77A85 // Skip Back
+// 0x8E740BF // Skip Forward
